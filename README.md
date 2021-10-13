@@ -2,7 +2,7 @@
 
 ### Deployment
 
-add aws credentials and meet env requirements
+add aws credentials
 and then deploy with:
 
 ```
